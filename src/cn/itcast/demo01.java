@@ -9,6 +9,7 @@ public class demo01 {
         System.out.println("hello world");
         System.out.println("hello world");
         test();
+        System.out.println("克隆修改");
     }
 
     private static void test() {

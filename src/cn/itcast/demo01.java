@@ -8,5 +8,11 @@ public class demo01 {
         System.out.println("hello world");
         System.out.println("hello world");
         System.out.println("hello world");
+        test();
     }
+
+    private static void test() {
+        System.out.println("test!!!");
+    }
+
 }
